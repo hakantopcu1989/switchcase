@@ -1,0 +1,15 @@
+E:\Patika\CSharpNetCore\Switch-Case\bin\Debug\net6.0\Switch-Case.exe
+E:\Patika\CSharpNetCore\Switch-Case\bin\Debug\net6.0\Switch-Case.deps.json
+E:\Patika\CSharpNetCore\Switch-Case\bin\Debug\net6.0\Switch-Case.runtimeconfig.json
+E:\Patika\CSharpNetCore\Switch-Case\bin\Debug\net6.0\Switch-Case.dll
+E:\Patika\CSharpNetCore\Switch-Case\bin\Debug\net6.0\Switch-Case.pdb
+E:\Patika\CSharpNetCore\Switch-Case\obj\Debug\net6.0\Switch-Case.csproj.AssemblyReference.cache
+E:\Patika\CSharpNetCore\Switch-Case\obj\Debug\net6.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+E:\Patika\CSharpNetCore\Switch-Case\obj\Debug\net6.0\Switch-Case.AssemblyInfoInputs.cache
+E:\Patika\CSharpNetCore\Switch-Case\obj\Debug\net6.0\Switch-Case.AssemblyInfo.cs
+E:\Patika\CSharpNetCore\Switch-Case\obj\Debug\net6.0\Switch-Case.csproj.CoreCompileInputs.cache
+E:\Patika\CSharpNetCore\Switch-Case\obj\Debug\net6.0\Switch-Case.dll
+E:\Patika\CSharpNetCore\Switch-Case\obj\Debug\net6.0\refint\Switch-Case.dll
+E:\Patika\CSharpNetCore\Switch-Case\obj\Debug\net6.0\Switch-Case.pdb
+E:\Patika\CSharpNetCore\Switch-Case\obj\Debug\net6.0\Switch-Case.genruntimeconfig.cache
+E:\Patika\CSharpNetCore\Switch-Case\obj\Debug\net6.0\ref\Switch-Case.dll
